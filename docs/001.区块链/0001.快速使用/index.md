@@ -1,0 +1,25 @@
+---
+title: index
+date: 2023-04-11 02:38:17
+permalink: /pages/bf2e1f/
+categories:
+  - 区块链
+  - 快速使用
+tags:
+  - 
+---
+::: tip
+这是一条提示
+:::
+
+::: warning
+这是一条注意
+:::
+
+::: danger
+这是一条警告
+:::
+
+::: note
+这是笔记容器，在 <Badge text="v1.5.0 +" /> 版本才支持哦~
+:::

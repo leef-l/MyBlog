@@ -1,15 +1,16 @@
-::: tip
-这是一条提示
-:::
-
-::: warning
-这是一条注意
-:::
-
-::: danger
-这是一条警告
-:::
-
-::: note
-这是笔记容器，在 <Badge text="v1.5.0 +" /> 版本才支持哦~
-:::
+---
+pageComponent:
+  name: Catalogue
+  data:
+    key: 001.block
+    imgUrl: /assets/img/web.png
+    description: 快速开始使用区块链吧
+title: 开始
+date: 2022-03-09 10:50:53
+permalink: /start/
+sidebar: false
+article: false
+comment: false
+comments: false
+editLink: false
+---
