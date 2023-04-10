@@ -5,6 +5,15 @@ import { NavItem } from "vuepress/config";
 export default <Array<NavItem>>[
   { text: "Home", link: "/" },
   {
+    text: "区块链",
+    items: [
+      {
+        text: "快速使用",
+        link: "/block/",
+      }
+    ],
+  },
+  {
     text: "配置",
     items: [
       {
