@@ -52,4 +52,5 @@ export default <UserPlugins>[
     },
   ],
   ["fulltext-search"],
+  ["one-click-copy"],
 ];

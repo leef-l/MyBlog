@@ -19,3 +19,4 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
   markdown, //markdown 相关配置, 如需修改请修改 config/markdown.ts
   plugins, //插件配置, 如需修改请修改 config/plugins.ts
 });
+
